@@ -1,3 +1,10 @@
+/*
+*
+* Estudiantes:
+*	Lenin Jose Mamani Huaylla
+*	Jhon Javier Cutipa Vargas
+*
+ */
 package main
 
 import "fmt"
